@@ -1,4 +1,4 @@
-# Hi, Zeina abuserryah 👋  
+# Hi, Zeina Abuserryah 👋  
 
 🎓 IT @ Midocean University  
 💻 Aspiring Software Engineer | Interested in Web Dev & Databases  
