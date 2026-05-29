@@ -19,7 +19,7 @@
 ## 🎮 Projects  
 - [🐦 Flappy Bird Game (Live)](https://za2289.github.io/FLAPPY-BIRD-GAME/)  
 - [🌍 Earth Animation](https://za2289.github.io/earth-animation/)  
-- [🐍 Snake Game Live](https://o278h.github.io/snake-game/)  
+- [🐍 Snake Game Live](https://za2289.github.io/snake-game/)  
 - [🌸 Lily Flower Animation](https://za2289.github.io/Lilly-flower-animation/) *(interactive web animation)*  
 ---
 
