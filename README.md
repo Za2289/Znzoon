@@ -1,6 +1,6 @@
 # Hi, Zeina abuserryah 👋  
 
-🎓 Computer Science student @ York University  
+🎓 IT @ Midocean University  
 💻 Aspiring Software Engineer | Interested in Web Dev & Databases  
 
 ---
