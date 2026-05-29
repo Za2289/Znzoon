@@ -31,8 +31,7 @@
 ---
 
 ## 🤝 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/zaina-hanie-542286350?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
-- [GitHub](https://github.com/O278H)  
+- [LinkedIn](https://www.linkedin.com/in/zaina-hanie-542286350?utm_source=share_via&utm_content=profile&utm_medium=member_ios)   
 
 ---
 
